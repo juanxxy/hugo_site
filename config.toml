@@ -1,5 +1,5 @@
-baseURL = "http://juanxxy.github.io/"
-title = "Example Site"
+baseURL = "juanxxy.github.io.git"
+title = "juanxxy"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
@@ -17,7 +17,7 @@ footnoteReturnLinkContents = "^"
     google_search = true
     # logo = "//blog.ertuil.top/avater.png"
     bio = """
-    <p> This is BIO. You can write something here. </p>
+    <p> Welcome to juanxxy! </p>
     <br />
     <p>Also all html tags such as <a href="https://github.com/ertuil/erblog">link</a> are a good here.</p>
     """
@@ -54,12 +54,12 @@ tag = "tags"
 series = "series"
 
 [[menu.icon]]
-    url = "mailto:username@mail.com"
+    url = "mailto:weiyujuan.mg08@nycu.edu.tw"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/juanxxy"
     name = "github"
     weight = 1
 
